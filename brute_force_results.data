@@ -1,0 +1,994 @@
+Runtime of brute force method: 12:43:33.08 (HH:MM:SS.MS)
+
+Results sorted by descending % >50k
+Keywords are from the below columns, in order:
+Workclass, Education, Marital-status, Occupation, Race, Sex, Country-of-origin
+===========================================================================
+
+
+(' Self-emp-inc', ' Prof-school', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 1, >50k: 56, % >50k: 98.25%
+
+(' Private', ' Doctorate', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 1, >50k: 15, % >50k: 93.75%
+
+(' Federal-gov', ' Some-college', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 1, >50k: 14, % >50k: 93.33%
+
+(' Private', ' Masters', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 159, % >50k: 92.98%
+
+(' Local-gov', ' Masters', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 3, >50k: 24, % >50k: 88.89%
+
+(' State-gov', ' Doctorate', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 4, >50k: 31, % >50k: 88.57%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Exec-managerial', ' Black', ' Male', ' United-States')
+<=50k: 2, >50k: 15, % >50k: 88.24%
+
+(' Private', ' Doctorate', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 8, >50k: 58, % >50k: 87.88%
+
+(' Self-emp-inc', ' Doctorate', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 2, >50k: 14, % >50k: 87.50%
+
+(' Self-emp-not-inc', ' Prof-school', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 10, >50k: 70, % >50k: 87.50%
+
+(' Private', ' Prof-school', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 83, % >50k: 87.37%
+
+(' Private', ' Masters', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 3, >50k: 19, % >50k: 86.36%
+
+(' Self-emp-inc', ' Masters', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 3, >50k: 18, % >50k: 85.71%
+
+(' Self-emp-inc', ' Masters', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 3, >50k: 16, % >50k: 84.21%
+
+(' Local-gov', ' Masters', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 6, >50k: 30, % >50k: 83.33%
+
+(' Self-emp-inc', ' Bachelors', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 14, >50k: 69, % >50k: 83.13%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 82, >50k: 370, % >50k: 81.86%
+
+(' Federal-gov', ' Bachelors', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 5, >50k: 21, % >50k: 80.77%
+
+(' Private', ' Masters', ' Divorced', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 3, >50k: 12, % >50k: 80.00%
+
+(' Private', ' Masters', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 30, >50k: 116, % >50k: 79.45%
+
+(' Private', ' Assoc-acdm', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 8, >50k: 29, % >50k: 78.38%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 9, >50k: 32, % >50k: 78.05%
+
+(' Self-emp-inc', ' Bachelors', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 42, % >50k: 77.78%
+
+(' Self-emp-inc', ' Some-college', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 15, >50k: 50, % >50k: 76.92%
+
+(' State-gov', ' Bachelors', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 8, >50k: 26, % >50k: 76.47%
+
+(' State-gov', ' Masters', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 4, >50k: 13, % >50k: 76.47%
+
+(' Self-emp-not-inc', ' Masters', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 4, >50k: 13, % >50k: 76.47%
+
+(' Private', ' Masters', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 9, >50k: 29, % >50k: 76.32%
+
+(' Federal-gov', ' Bachelors', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 6, >50k: 19, % >50k: 76.00%
+
+(' State-gov', ' Masters', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 10, >50k: 30, % >50k: 75.00%
+
+(' Local-gov', ' Bachelors', ' Married-civ-spouse', ' Protective-serv', ' White', ' Male', ' United-States')
+<=50k: 7, >50k: 20, % >50k: 74.07%
+
+(' Private', ' Prof-school', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 5, >50k: 14, % >50k: 73.68%
+
+(' Local-gov', ' Masters', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 24, >50k: 64, % >50k: 72.73%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 13, >50k: 34, % >50k: 72.34%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 77, >50k: 199, % >50k: 72.10%
+
+(' Local-gov', ' Bachelors', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 11, >50k: 28, % >50k: 71.79%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 89, >50k: 223, % >50k: 71.47%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Tech-support', ' White', ' Male', ' United-States')
+<=50k: 19, >50k: 45, % >50k: 70.31%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 14, >50k: 29, % >50k: 67.44%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 5, >50k: 10, % >50k: 66.67%
+
+(' Self-emp-inc', ' HS-grad', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 24, % >50k: 66.67%
+
+(' Federal-gov', ' Some-college', ' Married-civ-spouse', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 8, >50k: 16, % >50k: 66.67%
+
+(' Self-emp-inc', ' Bachelors', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 6, >50k: 12, % >50k: 66.67%
+
+(' Self-emp-not-inc', ' Doctorate', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 7, >50k: 14, % >50k: 66.67%
+
+(' ?', ' Bachelors', ' Married-civ-spouse', ' ?', ' White', ' Female', ' United-States')
+<=50k: 6, >50k: 11, % >50k: 64.71%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 22, % >50k: 64.71%
+
+(' Self-emp-inc', ' Some-college', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 17, >50k: 31, % >50k: 64.58%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 21, >50k: 38, % >50k: 64.41%
+
+(' Local-gov', ' Some-college', ' Married-civ-spouse', ' Protective-serv', ' White', ' Male', ' United-States')
+<=50k: 22, >50k: 38, % >50k: 63.33%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Tech-support', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 20, % >50k: 62.50%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 32, >50k: 50, % >50k: 60.98%
+
+(' Private', ' Assoc-acdm', ' Married-civ-spouse', ' Tech-support', ' White', ' Male', ' United-States')
+<=50k: 9, >50k: 14, % >50k: 60.87%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 6, >50k: 9, % >50k: 60.00%
+
+(' Self-emp-not-inc', ' Bachelors', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 21, >50k: 31, % >50k: 59.62%
+
+(' Local-gov', ' Bachelors', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 7, >50k: 10, % >50k: 58.82%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 92, >50k: 129, % >50k: 58.37%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 13, >50k: 18, % >50k: 58.06%
+
+(' State-gov', ' Bachelors', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 18, % >50k: 58.06%
+
+(' Self-emp-inc', ' HS-grad', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 29, >50k: 40, % >50k: 57.97%
+
+(' Federal-gov', ' HS-grad', ' Married-civ-spouse', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 16, >50k: 22, % >50k: 57.89%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 9, >50k: 12, % >50k: 57.14%
+
+(' Self-emp-not-inc', ' Bachelors', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 23, >50k: 30, % >50k: 56.60%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 26, >50k: 33, % >50k: 55.93%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Tech-support', ' White', ' Male', ' United-States')
+<=50k: 30, >50k: 38, % >50k: 55.88%
+
+(' Private', ' Masters', ' Divorced', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 8, >50k: 10, % >50k: 55.56%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 88, >50k: 109, % >50k: 55.33%
+
+(' Self-emp-not-inc', ' Bachelors', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 19, >50k: 23, % >50k: 54.76%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 47, >50k: 56, % >50k: 54.37%
+
+(' Private', ' Assoc-acdm', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 15, % >50k: 53.57%
+
+(' Local-gov', ' Bachelors', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 35, >50k: 40, % >50k: 53.33%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Craft-repair', ' Black', ' Male', ' United-States')
+<=50k: 7, >50k: 8, % >50k: 53.33%
+
+(' Private', ' Assoc-acdm', ' Married-civ-spouse', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 7, >50k: 8, % >50k: 53.33%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 16, >50k: 18, % >50k: 52.94%
+
+(' Private', ' Bachelors', ' Divorced', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 14, % >50k: 51.85%
+
+(' Private', ' Assoc-acdm', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 18, >50k: 19, % >50k: 51.35%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Tech-support', ' White', ' Male', ' United-States')
+<=50k: 19, >50k: 20, % >50k: 51.28%
+
+(' Local-gov', ' HS-grad', ' Married-civ-spouse', ' Protective-serv', ' White', ' Male', ' United-States')
+<=50k: 23, >50k: 24, % >50k: 51.06%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 119, >50k: 119, % >50k: 50.00%
+
+(' Private', ' Bachelors', ' Divorced', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 21, >50k: 20, % >50k: 48.78%
+
+(' Local-gov', ' Some-college', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 11, >50k: 10, % >50k: 47.62%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 10, >50k: 9, % >50k: 47.37%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 29, >50k: 26, % >50k: 47.27%
+
+(' Self-emp-inc', ' HS-grad', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 18, >50k: 16, % >50k: 47.06%
+
+(' ?', ' Masters', ' Married-civ-spouse', ' ?', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 11, % >50k: 45.83%
+
+(' Private', ' Masters', ' Never-married', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 10, % >50k: 45.45%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 14, >50k: 11, % >50k: 44.00%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 65, >50k: 51, % >50k: 43.97%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 195, >50k: 151, % >50k: 43.64%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 59, >50k: 45, % >50k: 43.27%
+
+(' Local-gov', ' HS-grad', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 9, % >50k: 42.86%
+
+(' Self-emp-not-inc', ' Some-college', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 27, >50k: 20, % >50k: 42.55%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 65, >50k: 48, % >50k: 42.48%
+
+(' Private', ' Assoc-acdm', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 24, >50k: 17, % >50k: 41.46%
+
+(' ?', ' Bachelors', ' Married-civ-spouse', ' ?', ' White', ' Male', ' United-States')
+<=50k: 38, >50k: 25, % >50k: 39.68%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 13, >50k: 8, % >50k: 38.10%
+
+(' Private', ' Prof-school', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 13, >50k: 8, % >50k: 38.10%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Farming-fishing', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 8, % >50k: 38.10%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 18, >50k: 11, % >50k: 37.93%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 172, >50k: 105, % >50k: 37.91%
+
+(' Private', ' Doctorate', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 10, >50k: 6, % >50k: 37.50%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 52, >50k: 31, % >50k: 37.35%
+
+(' Local-gov', ' Some-college', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 7, % >50k: 36.84%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 24, >50k: 14, % >50k: 36.84%
+
+(' Private', ' Bachelors', ' Divorced', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 11, >50k: 6, % >50k: 35.29%
+
+(' State-gov', ' HS-grad', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 7, % >50k: 35.00%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 7, % >50k: 35.00%
+
+(' Private', ' Bachelors', ' Divorced', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 28, >50k: 15, % >50k: 34.88%
+
+(' Self-emp-not-inc', ' Bachelors', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 15, >50k: 8, % >50k: 34.78%
+
+(' Private', ' Prof-school', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 10, >50k: 5, % >50k: 33.33%
+
+(' Private', ' Some-college', ' Divorced', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 10, >50k: 5, % >50k: 33.33%
+
+(' Private', ' Bachelors', ' Married-civ-spouse', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 6, % >50k: 33.33%
+
+(' State-gov', ' Some-college', ' Married-civ-spouse', ' Protective-serv', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 6, % >50k: 33.33%
+
+(' Private', ' Masters', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 28, >50k: 14, % >50k: 33.33%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 224, >50k: 111, % >50k: 33.13%
+
+(' Self-emp-not-inc', ' HS-grad', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 47, >50k: 23, % >50k: 32.86%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 552, >50k: 255, % >50k: 31.60%
+
+(' ?', ' Some-college', ' Married-civ-spouse', ' ?', ' White', ' Female', ' United-States')
+<=50k: 18, >50k: 8, % >50k: 30.77%
+
+(' Private', ' Masters', ' Never-married', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 18, >50k: 8, % >50k: 30.77%
+
+(' Local-gov', ' HS-grad', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 34, >50k: 15, % >50k: 30.61%
+
+(' Self-emp-not-inc', ' HS-grad', ' Married-civ-spouse', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 53, >50k: 23, % >50k: 30.26%
+
+(' ?', ' Some-college', ' Married-civ-spouse', ' ?', ' White', ' Male', ' United-States')
+<=50k: 42, >50k: 18, % >50k: 30.00%
+
+(' Local-gov', ' Masters', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 16, >50k: 4, % >50k: 20.00%
+
+(' Private', ' 11th', ' Married-civ-spouse', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 12, >50k: 3, % >50k: 20.00%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 33, >50k: 8, % >50k: 19.51%
+
+(' Self-emp-not-inc', ' Assoc-voc', ' Married-civ-spouse', ' Farming-fishing', ' White', ' Male', ' United-States')
+<=50k: 21, >50k: 5, % >50k: 19.23%
+
+(' Private', ' Assoc-voc', ' Divorced', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 21, >50k: 5, % >50k: 19.23%
+
+(' Private', ' Bachelors', ' Never-married', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 21, >50k: 5, % >50k: 19.23%
+
+(' ?', ' HS-grad', ' Married-civ-spouse', ' ?', ' White', ' Male', ' United-States')
+<=50k: 122, >50k: 29, % >50k: 19.21%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Other-service', ' Black', ' Male', ' United-States')
+<=50k: 17, >50k: 4, % >50k: 19.05%
+
+(' Private', ' Some-college', ' Divorced', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 3, % >50k: 18.75%
+
+(' Private', ' Assoc-voc', ' Married-civ-spouse', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 13, >50k: 3, % >50k: 18.75%
+
+(' Private', ' Some-college', ' Divorced', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 48, >50k: 11, % >50k: 18.64%
+
+(' Private', ' Bachelors', ' Never-married', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 98, >50k: 22, % >50k: 18.33%
+
+(' Private', ' Masters', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 48, >50k: 10, % >50k: 17.24%
+
+(' State-gov', ' HS-grad', ' Married-civ-spouse', ' Protective-serv', ' White', ' Male', ' United-States')
+<=50k: 24, >50k: 5, % >50k: 17.24%
+
+(' Local-gov', ' Masters', ' Divorced', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 35, >50k: 7, % >50k: 16.67%
+
+(' Self-emp-not-inc', ' HS-grad', ' Divorced', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 20, >50k: 4, % >50k: 16.67%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 15, >50k: 3, % >50k: 16.67%
+
+(' Local-gov', ' HS-grad', ' Married-civ-spouse', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 25, >50k: 5, % >50k: 16.67%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 36, >50k: 7, % >50k: 16.28%
+
+(' Private', ' Bachelors', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 109, >50k: 21, % >50k: 16.15%
+
+(' Private', ' Some-college', ' Divorced', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 21, >50k: 4, % >50k: 16.00%
+
+(' Private', ' 11th', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 59, >50k: 11, % >50k: 15.71%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Transport-moving', ' Black', ' Male', ' United-States')
+<=50k: 22, >50k: 4, % >50k: 15.38%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Handlers-cleaners', ' Black', ' Male', ' United-States')
+<=50k: 18, >50k: 3, % >50k: 14.29%
+
+(' Private', ' Some-college', ' Married-civ-spouse', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 49, >50k: 8, % >50k: 14.04%
+
+(' Private', ' 10th', ' Married-civ-spouse', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 31, >50k: 5, % >50k: 13.89%
+
+(' Private', ' Some-college', ' Never-married', ' Craft-repair', ' White', ' Female', ' United-States')
+<=50k: 13, >50k: 2, % >50k: 13.33%
+
+(' Private', ' 7th-8th', ' Married-civ-spouse', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 20, >50k: 3, % >50k: 13.04%
+
+(' Self-emp-not-inc', ' 7th-8th', ' Married-civ-spouse', ' Farming-fishing', ' White', ' Male', ' United-States')
+<=50k: 20, >50k: 3, % >50k: 13.04%
+
+(' Private', ' HS-grad', ' Widowed', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 29, >50k: 4, % >50k: 12.12%
+
+(' Private', ' Bachelors', ' Never-married', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 102, >50k: 14, % >50k: 12.07%
+
+(' Private', ' HS-grad', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 15, >50k: 2, % >50k: 11.76%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 83, >50k: 11, % >50k: 11.70%
+
+(' Private', ' HS-grad', ' Married-civ-spouse', ' Farming-fishing', ' White', ' Male', ' United-States')
+<=50k: 53, >50k: 7, % >50k: 11.67%
+
+(' Self-emp-not-inc', ' Some-college', ' Married-civ-spouse', ' Farming-fishing', ' White', ' Male', ' United-States')
+<=50k: 46, >50k: 6, % >50k: 11.54%
+
+(' Private', ' HS-grad', ' Divorced', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 16, >50k: 2, % >50k: 11.11%
+
+(' Local-gov', ' Masters', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 33, >50k: 4, % >50k: 10.81%
+
+(' Private', ' HS-grad', ' Divorced', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 25, >50k: 3, % >50k: 10.71%
+
+(' Private', ' Some-college', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 34, >50k: 4, % >50k: 10.53%
+
+(' Private', ' Bachelors', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 126, >50k: 14, % >50k: 10.00%
+
+(' Private', ' Assoc-acdm', ' Divorced', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 18, >50k: 2, % >50k: 10.00%
+
+(' Private', ' Bachelors', ' Never-married', ' Tech-support', ' White', ' Female', ' United-States')
+<=50k: 27, >50k: 3, % >50k: 10.00%
+
+(' Local-gov', ' HS-grad', ' Married-civ-spouse', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 18, >50k: 2, % >50k: 10.00%
+
+(' Private', ' Bachelors', ' Divorced', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 20, >50k: 2, % >50k: 9.09%
+
+(' Private', ' 11th', ' Married-civ-spouse', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 31, >50k: 3, % >50k: 8.82%
+
+(' Private', ' HS-grad', ' Divorced', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 63, >50k: 6, % >50k: 8.70%
+
+(' Private', ' Some-college', ' Divorced', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 21, >50k: 2, % >50k: 8.70%
+
+(' Private', ' Some-college', ' Divorced', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 63, >50k: 6, % >50k: 8.70%
+
+(' Local-gov', ' Bachelors', ' Divorced', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 32, >50k: 3, % >50k: 8.57%
+
+(' Private', ' Bachelors', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 22, >50k: 2, % >50k: 8.33%
+
+(' ?', ' Some-college', ' Divorced', ' ?', ' White', ' Female', ' United-States')
+<=50k: 22, >50k: 2, % >50k: 8.33%
+
+(' Private', ' Some-college', ' Divorced', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 47, >50k: 4, % >50k: 7.84%
+
+(' Private', ' Bachelors', ' Never-married', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 71, >50k: 6, % >50k: 7.79%
+
+(' Local-gov', ' Bachelors', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 25, >50k: 2, % >50k: 7.41%
+
+(' ?', ' 7th-8th', ' Married-civ-spouse', ' ?', ' White', ' Male', ' United-States')
+<=50k: 25, >50k: 2, % >50k: 7.41%
+
+(' Self-emp-not-inc', ' HS-grad', ' Never-married', ' Farming-fishing', ' White', ' Male', ' United-States')
+<=50k: 26, >50k: 2, % >50k: 7.14%
+
+(' Private', ' Bachelors', ' Never-married', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 53, >50k: 4, % >50k: 7.02%
+
+(' Local-gov', ' Bachelors', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 54, >50k: 4, % >50k: 6.90%
+
+(' State-gov', ' Bachelors', ' Never-married', ' Prof-specialty', ' White', ' Male', ' United-States')
+<=50k: 27, >50k: 2, % >50k: 6.90%
+
+(' Private', ' HS-grad', ' Divorced', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 68, >50k: 5, % >50k: 6.85%
+
+(' Private', ' Some-college', ' Divorced', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 14, >50k: 1, % >50k: 6.67%
+
+(' Private', ' 9th', ' Married-civ-spouse', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 14, >50k: 1, % >50k: 6.67%
+
+(' Private', ' Assoc-acdm', ' Never-married', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 14, >50k: 1, % >50k: 6.67%
+
+(' Private', ' 11th', ' Married-civ-spouse', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 14, >50k: 1, % >50k: 6.67%
+
+(' Self-emp-not-inc', ' 7th-8th', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 14, >50k: 1, % >50k: 6.67%
+
+(' Private', ' Assoc-acdm', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 14, >50k: 1, % >50k: 6.67%
+
+(' Private', ' 11th', ' Married-civ-spouse', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 29, >50k: 2, % >50k: 6.45%
+
+(' State-gov', ' HS-grad', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 15, >50k: 1, % >50k: 6.25%
+
+(' Private', ' Some-college', ' Never-married', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 45, >50k: 3, % >50k: 6.25%
+
+(' Private', ' Assoc-acdm', ' Never-married', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 15, >50k: 1, % >50k: 6.25%
+
+(' Private', ' 10th', ' Married-civ-spouse', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 15, >50k: 1, % >50k: 6.25%
+
+(' Private', ' HS-grad', ' Divorced', ' Tech-support', ' White', ' Female', ' United-States')
+<=50k: 15, >50k: 1, % >50k: 6.25%
+
+(' Private', ' HS-grad', ' Divorced', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 135, >50k: 9, % >50k: 6.25%
+
+(' Private', ' Assoc-voc', ' Never-married', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 31, >50k: 2, % >50k: 6.06%
+
+(' Private', ' HS-grad', ' Divorced', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 16, >50k: 1, % >50k: 5.88%
+
+(' Private', ' 9th', ' Married-civ-spouse', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 16, >50k: 1, % >50k: 5.88%
+
+(' Private', ' Bachelors', ' Never-married', ' Tech-support', ' White', ' Male', ' United-States')
+<=50k: 35, >50k: 2, % >50k: 5.41%
+
+(' Private', ' Some-college', ' Never-married', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 54, >50k: 3, % >50k: 5.26%
+
+(' Private', ' 11th', ' Never-married', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 19, >50k: 1, % >50k: 5.00%
+
+(' ?', ' Bachelors', ' Never-married', ' ?', ' White', ' Male', ' United-States')
+<=50k: 19, >50k: 1, % >50k: 5.00%
+
+(' Private', ' 7th-8th', ' Married-civ-spouse', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 19, >50k: 1, % >50k: 5.00%
+
+(' Private', ' Some-college', ' Separated', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 19, >50k: 1, % >50k: 5.00%
+
+(' Private', ' Some-college', ' Never-married', ' Tech-support', ' White', ' Female', ' United-States')
+<=50k: 39, >50k: 2, % >50k: 4.88%
+
+(' Self-emp-not-inc', ' Some-college', ' Never-married', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 20, >50k: 1, % >50k: 4.76%
+
+(' Private', ' HS-grad', ' Never-married', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 101, >50k: 5, % >50k: 4.72%
+
+(' Private', ' Some-college', ' Divorced', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 24, >50k: 1, % >50k: 4.00%
+
+(' Private', ' Assoc-voc', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 24, >50k: 1, % >50k: 4.00%
+
+(' Private', ' Some-college', ' Divorced', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 25, >50k: 1, % >50k: 3.85%
+
+(' ?', ' HS-grad', ' Divorced', ' ?', ' White', ' Female', ' United-States')
+<=50k: 25, >50k: 1, % >50k: 3.85%
+
+(' Private', ' HS-grad', ' Divorced', ' Craft-repair', ' White', ' Female', ' United-States')
+<=50k: 25, >50k: 1, % >50k: 3.85%
+
+(' Private', ' HS-grad', ' Divorced', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 26, >50k: 1, % >50k: 3.70%
+
+(' Private', ' HS-grad', ' Widowed', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 54, >50k: 2, % >50k: 3.57%
+
+(' Private', ' Some-college', ' Widowed', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 27, >50k: 1, % >50k: 3.57%
+
+(' Private', ' Some-college', ' Divorced', ' Adm-clerical', ' Black', ' Female', ' United-States')
+<=50k: 27, >50k: 1, % >50k: 3.57%
+
+(' Private', ' 9th', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 28, >50k: 1, % >50k: 3.45%
+
+(' Private', ' Some-college', ' Never-married', ' Tech-support', ' White', ' Male', ' United-States')
+<=50k: 28, >50k: 1, % >50k: 3.45%
+
+(' Local-gov', ' HS-grad', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 28, >50k: 1, % >50k: 3.45%
+
+(' Private', ' HS-grad', ' Divorced', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 29, >50k: 1, % >50k: 3.33%
+
+(' Private', ' Bachelors', ' Never-married', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 31, >50k: 1, % >50k: 3.12%
+
+(' Private', ' HS-grad', ' Never-married', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 242, >50k: 7, % >50k: 2.81%
+
+(' Private', ' Assoc-acdm', ' Never-married', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 35, >50k: 1, % >50k: 2.78%
+
+(' Private', ' HS-grad', ' Never-married', ' Exec-managerial', ' White', ' Male', ' United-States')
+<=50k: 35, >50k: 1, % >50k: 2.78%
+
+(' Private', ' Assoc-voc', ' Never-married', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 38, >50k: 1, % >50k: 2.56%
+
+(' Private', ' HS-grad', ' Divorced', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 78, >50k: 2, % >50k: 2.50%
+
+(' Private', ' Some-college', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 156, >50k: 4, % >50k: 2.50%
+
+(' Private', ' Some-college', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 42, >50k: 1, % >50k: 2.33%
+
+(' Private', ' Some-college', ' Divorced', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 44, >50k: 1, % >50k: 2.22%
+
+(' Private', ' Some-college', ' Never-married', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 45, >50k: 1, % >50k: 2.17%
+
+(' ?', ' HS-grad', ' Never-married', ' ?', ' White', ' Male', ' United-States')
+<=50k: 46, >50k: 1, % >50k: 2.13%
+
+(' Private', ' HS-grad', ' Never-married', ' Transport-moving', ' White', ' Male', ' United-States')
+<=50k: 93, >50k: 2, % >50k: 2.11%
+
+(' Private', ' HS-grad', ' Divorced', ' Machine-op-inspct', ' White', ' Female', ' United-States')
+<=50k: 47, >50k: 1, % >50k: 2.08%
+
+(' ?', ' HS-grad', ' Widowed', ' ?', ' White', ' Female', ' United-States')
+<=50k: 48, >50k: 1, % >50k: 2.04%
+
+(' Private', ' Some-college', ' Never-married', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 144, >50k: 3, % >50k: 2.04%
+
+(' Private', ' Bachelors', ' Never-married', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 102, >50k: 2, % >50k: 1.92%
+
+(' Private', ' HS-grad', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 179, >50k: 3, % >50k: 1.65%
+
+(' Private', ' Some-college', ' Never-married', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 240, >50k: 4, % >50k: 1.64%
+
+(' Private', ' HS-grad', ' Divorced', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 60, >50k: 1, % >50k: 1.64%
+
+(' Private', ' HS-grad', ' Never-married', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 95, >50k: 1, % >50k: 1.04%
+
+(' Private', ' Some-college', ' Never-married', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 102, >50k: 1, % >50k: 0.97%
+
+(' Private', ' Some-college', ' Never-married', ' Adm-clerical', ' White', ' Male', ' United-States')
+<=50k: 112, >50k: 1, % >50k: 0.88%
+
+(' Private', ' HS-grad', ' Never-married', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 240, >50k: 2, % >50k: 0.83%
+
+(' Private', ' HS-grad', ' Divorced', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 120, >50k: 1, % >50k: 0.83%
+
+(' ?', ' Some-college', ' Never-married', ' ?', ' White', ' Male', ' United-States')
+<=50k: 138, >50k: 1, % >50k: 0.72%
+
+(' Private', ' Some-college', ' Never-married', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 149, >50k: 1, % >50k: 0.67%
+
+(' Private', ' HS-grad', ' Never-married', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 178, >50k: 1, % >50k: 0.56%
+
+(' Private', ' Some-college', ' Never-married', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 201, >50k: 1, % >50k: 0.50%
+
+(' Private', ' HS-grad', ' Never-married', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 206, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 130, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Separated', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 28, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 10th', ' Never-married', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 38, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Divorced', ' Other-service', ' Black', ' Female', ' United-States')
+<=50k: 23, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Divorced', ' Tech-support', ' White', ' Female', ' United-States')
+<=50k: 19, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Never-married', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 47, >50k: 0, % >50k: 0.00%
+
+(' ?', ' 10th', ' Never-married', ' ?', ' White', ' Female', ' United-States')
+<=50k: 18, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Transport-moving', ' Black', ' Male', ' United-States')
+<=50k: 18, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 12th', ' Never-married', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 17, >50k: 0, % >50k: 0.00%
+
+(' ?', ' 11th', ' Never-married', ' ?', ' White', ' Male', ' United-States')
+<=50k: 26, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Tech-support', ' White', ' Male', ' United-States')
+<=50k: 18, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Assoc-voc', ' Never-married', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 19, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Divorced', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 18, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Never-married', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 40, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Never-married', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 56, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 10th', ' Never-married', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 21, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 19, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Assoc-acdm', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 23, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Separated', ' Other-service', ' Black', ' Female', ' United-States')
+<=50k: 19, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Other-service', ' Black', ' Male', ' United-States')
+<=50k: 38, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Handlers-cleaners', ' Black', ' Male', ' United-States')
+<=50k: 30, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Divorced', ' Adm-clerical', ' Black', ' Female', ' United-States')
+<=50k: 16, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Never-married', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 52, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 10th', ' Divorced', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 15, >50k: 0, % >50k: 0.00%
+
+(' State-gov', ' Bachelors', ' Never-married', ' Prof-specialty', ' White', ' Female', ' United-States')
+<=50k: 23, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 151, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Adm-clerical', ' Black', ' Female', ' United-States')
+<=50k: 42, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 183, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 12th', ' Never-married', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 25, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 12th', ' Never-married', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 19, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Never-married', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 44, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 12th', ' Never-married', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 22, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 10th', ' Never-married', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 26, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Separated', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 18, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Never-married', ' Other-service', ' Black', ' Male', ' United-States')
+<=50k: 15, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Machine-op-inspct', ' Black', ' Female', ' United-States')
+<=50k: 30, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Machine-op-inspct', ' White', ' Female', ' United-States')
+<=50k: 56, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 96, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 143, >50k: 0, % >50k: 0.00%
+
+(' ?', ' HS-grad', ' Never-married', ' ?', ' White', ' Female', ' United-States')
+<=50k: 48, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Craft-repair', ' White', ' Female', ' United-States')
+<=50k: 18, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Craft-repair', ' Black', ' Male', ' United-States')
+<=50k: 28, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Farming-fishing', ' White', ' Male', ' United-States')
+<=50k: 26, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Bachelors', ' Never-married', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 27, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Farming-fishing', ' White', ' Male', ' United-States')
+<=50k: 49, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Never-married', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 17, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 10th', ' Never-married', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 23, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Machine-op-inspct', ' White', ' Female', ' United-States')
+<=50k: 23, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Bachelors', ' Never-married', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 15, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Sales', ' Black', ' Male', ' United-States')
+<=50k: 18, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 7th-8th', ' Married-civ-spouse', ' Craft-repair', ' White', ' Male', ' United-States')
+<=50k: 45, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Divorced', ' Machine-op-inspct', ' White', ' Female', ' United-States')
+<=50k: 17, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Adm-clerical', ' Black', ' Female', ' United-States')
+<=50k: 35, >50k: 0, % >50k: 0.00%
+
+(' Local-gov', ' Some-college', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 24, >50k: 0, % >50k: 0.00%
+
+(' ?', ' HS-grad', ' Never-married', ' ?', ' Black', ' Female', ' United-States')
+<=50k: 25, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Machine-op-inspct', ' White', ' Male', ' United-States')
+<=50k: 42, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Separated', ' Sales', ' White', ' Female', ' United-States')
+<=50k: 21, >50k: 0, % >50k: 0.00%
+
+(' ?', ' Some-college', ' Never-married', ' ?', ' Black', ' Female', ' United-States')
+<=50k: 16, >50k: 0, % >50k: 0.00%
+
+(' ?', ' 10th', ' Never-married', ' ?', ' White', ' Male', ' United-States')
+<=50k: 26, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Other-service', ' Black', ' Male', ' United-States')
+<=50k: 19, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Other-service', ' Black', ' Female', ' United-States')
+<=50k: 53, >50k: 0, % >50k: 0.00%
+
+(' ?', ' Some-college', ' Never-married', ' ?', ' White', ' Female', ' United-States')
+<=50k: 146, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Machine-op-inspct', ' Black', ' Male', ' United-States')
+<=50k: 19, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Handlers-cleaners', ' White', ' Female', ' United-States')
+<=50k: 30, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Sales', ' Black', ' Female', ' United-States')
+<=50k: 28, >50k: 0, % >50k: 0.00%
+
+(' State-gov', ' Some-college', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 21, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Assoc-acdm', ' Never-married', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 17, >50k: 0, % >50k: 0.00%
+
+(' ?', ' 11th', ' Never-married', ' ?', ' White', ' Female', ' United-States')
+<=50k: 25, >50k: 0, % >50k: 0.00%
+
+(' State-gov', ' Some-college', ' Never-married', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 25, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 10th', ' Never-married', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 32, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Sales', ' Black', ' Female', ' United-States')
+<=50k: 26, >50k: 0, % >50k: 0.00%
+
+(' ?', ' 11th', ' Married-civ-spouse', ' ?', ' White', ' Male', ' United-States')
+<=50k: 15, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Widowed', ' Machine-op-inspct', ' White', ' Female', ' United-States')
+<=50k: 16, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Never-married', ' Exec-managerial', ' White', ' Female', ' United-States')
+<=50k: 46, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Divorced', ' Other-service', ' White', ' Male', ' United-States')
+<=50k: 17, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Divorced', ' Handlers-cleaners', ' White', ' Male', ' United-States')
+<=50k: 31, >50k: 0, % >50k: 0.00%
+
+(' Federal-gov', ' HS-grad', ' Divorced', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 18, >50k: 0, % >50k: 0.00%
+
+(' Private', ' Some-college', ' Never-married', ' Other-service', ' Black', ' Female', ' United-States')
+<=50k: 19, >50k: 0, % >50k: 0.00%
+
+(' Private', ' 11th', ' Never-married', ' Sales', ' White', ' Male', ' United-States')
+<=50k: 25, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Widowed', ' Other-service', ' White', ' Female', ' United-States')
+<=50k: 40, >50k: 0, % >50k: 0.00%
+
+(' Private', ' HS-grad', ' Separated', ' Adm-clerical', ' White', ' Female', ' United-States')
+<=50k: 36, >50k: 0, % >50k: 0.00%
